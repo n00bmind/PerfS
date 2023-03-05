@@ -1,0 +1,10 @@
+*.swp
+*.exe
+*.exp
+*.obj
+*.lib
+*.pdb
+listing_*
+!listing_*.*
+*.dis
+*.dis.asm
